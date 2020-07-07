@@ -1,0 +1,79 @@
+@media (max-width: 1199px) {
+
+}
+@media (max-width: 991px) {
+    .container {
+        max-width: 750px;
+    }
+}
+@media (max-width: 767px) {
+    .container {
+        max-width: 720px;
+    }
+    .promo {
+        padding: 21px 20px 93px 20px;
+    }
+    .promo__wrapper {
+        align-items: center;
+        margin-top: 40px;
+    }
+    .advantages {
+        padding: 50px 10px 58px 10px;
+    }
+    .advantages__wrapper {
+        margin-top: 35px;
+    }
+    .advantages__item {
+        max-width: 220px;
+    }
+    .advantages__subtitle {
+        margin-top: 20px;
+    }
+    .advantages__descr  {
+        margin-top: 15px;
+    }
+    .consultation {
+        padding: 60px 0 92px 20px;
+    }
+}
+@media (max-width: 575px) {
+    .container {
+        max-width: 540px;
+    }
+    .promo__wrapper {
+        align-items: center;
+        margin-top: 50px;
+    }
+    .promo__icons {
+        margin-top: 45px;
+    }
+    .header__logo {
+        width: 200px;
+    }
+    .header__official span {
+        font-size: 16px;
+    }
+    .header__phone {
+        font-size: 16px;
+    }
+    .advantages {
+        padding: 50px 0 58px 0;
+    }
+    .advantages__item {
+        max-width: 200px;
+    }
+    .advantages__wrapper {
+        margin-top: 25px;
+    }
+    .advantages__subtitle {
+        margin-top: 20px;
+        font-size: 16px;
+    }
+    .advantages__descr {
+        margin-top: 15px;
+    }
+    .consultation {
+        padding: 50px 0 90px 20px;
+    }
+}
+
